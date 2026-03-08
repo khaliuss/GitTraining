@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="@string/my_first_git_hub_project"
         android:textSize="27sp"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
